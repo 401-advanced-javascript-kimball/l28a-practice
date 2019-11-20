@@ -107,23 +107,6 @@ When operational, your application should look like the image below, and the wor
 
 ![Screen Shot](./lab28-practice.png)
 
----
-
-## To Do Application Refactor
-
-Begin with: `/lab/starter-code/todo`
-
-You will be refactoring this simple "To Do" application, written with HTML, CSS, Vanilla Javascript and Handlebars Templates in a React app.
-
-* Create a new React application at [Code Sandbox](http://codesandbox.io)
-* Replicate the functionality of the starter application
-  * Add whatever is typed into the form to the list
-  * Clicking an item changes it's 'complete' state
-    * Use that to set a new class on the item for styling
-  * Clicking the delete link removes the item from the list
-* Some basic CSS has been provided in the starter code
-  * Convert this to SASS
-
 ## Tests
 
 Write mount/enzyme tests for each component in all assignments
