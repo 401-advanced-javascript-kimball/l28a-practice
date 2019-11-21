@@ -16,7 +16,11 @@
     "redux": "^4.0.4",
     "superagent": "^5.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
   "scripts": {
     "lint": "eslint src/**/*.js",
     "start": "react-scripts start",
