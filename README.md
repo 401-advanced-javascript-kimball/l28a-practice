@@ -9,15 +9,12 @@
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-kimball/l28a-practice/pull/1)
 * [travis](https://travis-ci.com/401-advanced-javascript-kimball/l28a-practice)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [front-end](http://l28a-practice.s3-website-us-west-2.amazonaws.com/) (S3)
+* [front-end](https://submission.d2qd2xhoe7zys.amplifyapp.com/) (Amplify)
+* [front-end](https://friendly-boyd-bcb8b1.netlify.com/) (Netlify)
 
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+<!-- ### Modules
 
-### Modules
 #### `modulename.js`
 ##### Exported Values and Methods
 
@@ -30,7 +27,7 @@ Usage Notes or examples
 ### Setup
 #### `.env` requirements
 * `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `MONGODB_URI` - URL to the running mongo instance/db -->
 
 #### Running the app
 * `npm start`
