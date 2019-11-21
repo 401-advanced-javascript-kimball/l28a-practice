@@ -6,9 +6,24 @@ import Message from './components/message.js';
 
 class App extends React.Component {
 
+  constructor(props) {
+    super(props)
+    this.state = {
+      input: '',
+    };
+  }
+
+  sayIt = (str) => {
+    this.setState({ input: `You Typed: ${str}` });
+  }
+
   render() {
     return (
-      <Message/>
+      <Message text='This is my amazing application'
+        title='This is my title'
+        action={this.sayIt}
+        input={this.state.input}
+      />
     );
   }
 }

@@ -1,8 +1,5 @@
 # l28a-practice
 
-https://github.com/401-advanced-javascript-kimball/l28a-practice/pull/1
-https://travis-ci.com/401-advanced-javascript-kimball/l28a-practice
-
 # LAB - 
 
 ## Project Name
@@ -10,8 +7,8 @@ https://travis-ci.com/401-advanced-javascript-kimball/l28a-practice
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-kimball/l28a-practice/pull/1)
+* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l28a-practice)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 

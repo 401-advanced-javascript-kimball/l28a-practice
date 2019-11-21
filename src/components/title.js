@@ -1,8 +1,16 @@
 import React from 'react';
 
 class Title extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+
   render() {
-    return null;
+    return (
+      <>
+        <h1>{this.props.text}</h1>
+      </>
+    );
   }
 }
 
